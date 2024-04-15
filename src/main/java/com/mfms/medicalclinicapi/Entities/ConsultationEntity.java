@@ -1,6 +1,5 @@
 package com.mfms.medicalclinicapi.Entities;
 
-import org.hibernate.annotations.ValueGenerationType;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
